@@ -1,0 +1,38 @@
+img{
+  border-color: black;
+  border-radius: 50%;
+}
+
+body{
+background-image: url("../images/contactmebk.jpg");
+background-repeat: repeat-x;
+background-color: lightblue;
+text-align: left-side;
+}
+
+head{
+font-size: 30;
+font-family: Ariel;
+}
+
+h1{
+color: black;
+direction: rtl;
+margin-top: 0px;
+}
+
+p {
+direction: rtl;
+margin-top: 0px;
+color: black;
+font-size: 20;
+text-align: left-side;
+}
+
+div{
+width: 60%;
+margin-left:auto;
+margin-right: auto;
+}
+
+
